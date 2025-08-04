@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.hover-safetheme:hover {
+    background-color: var(--safetheme);
+  }
+  
+  
